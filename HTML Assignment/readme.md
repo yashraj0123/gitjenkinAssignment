@@ -1,0 +1,1 @@
+index.html file contains the html document with css in index.css and Javascript in index.js for row addition.
